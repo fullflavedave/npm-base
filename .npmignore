@@ -4,8 +4,9 @@
 .*.haste_cache.*
 .DS_Store
 .idea
-.babelrc
-.eslintrc
 npm-debug.log
-lib
-src
+.versions
+*.map
+node_modules
+typings
+dist
